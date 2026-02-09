@@ -1,0 +1,14 @@
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\bin\Debug\net8.0\MethodPractice.exe
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\bin\Debug\net8.0\MethodPractice.deps.json
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\bin\Debug\net8.0\MethodPractice.runtimeconfig.json
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\bin\Debug\net8.0\MethodPractice.dll
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\bin\Debug\net8.0\MethodPractice.pdb
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\MethodPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\MethodPractice.AssemblyInfoInputs.cache
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\MethodPractice.AssemblyInfo.cs
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\MethodPractice.csproj.CoreCompileInputs.cache
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\MethodPractice.dll
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\refint\MethodPractice.dll
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\MethodPractice.pdb
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\MethodPractice.genruntimeconfig.cache
+C:\Users\Eshita\OneDrive\Desktop\.Net_Learning\MethodPractice\MethodPractice\obj\Debug\net8.0\ref\MethodPractice.dll
